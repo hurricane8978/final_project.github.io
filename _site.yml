@@ -1,0 +1,22 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "About"
+      href: 
+    - text: "Exploratory Analyses"
+      href: 
+    - text: "Time Series Analysis Model"
+      href: time_series_analysis.html       
+    - text: "Regression Model"
+      href:      
+    - icon: fa-envelope fa-lg
+      href: 
+    - icon: fa-youtube fa-lg
+      href: 
+    - icon: fa-github fa-lg
+      href: 
+output:
+  html_document:
+    theme: journal
